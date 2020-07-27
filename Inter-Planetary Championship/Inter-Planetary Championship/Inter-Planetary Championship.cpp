@@ -20,6 +20,9 @@ int main() {
     }
 
     else if (x == 2) {
+
+        //from the planet
+
         weight = weight * 0.78;
     }
 
