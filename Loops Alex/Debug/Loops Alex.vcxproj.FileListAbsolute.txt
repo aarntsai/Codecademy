@@ -1,0 +1,2 @@
+E:\Github\Codecademy\Loops Alex\Debug\Loops Alex.exe
+E:\Github\Codecademy\Loops Alex\Debug\Loops Alex.pdb
