@@ -1,0 +1,2 @@
+E:\Github\Codecademy\C++ Exercises\Debug\C++ Exercises.exe
+E:\Github\Codecademy\C++ Exercises\Debug\C++ Exercises.pdb
